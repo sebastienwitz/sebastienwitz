@@ -1,6 +1,6 @@
 # Hi, I'm Sébastien
 
-Software engineer focused on pragmatic architecture, legacy modernization, DevOps, and AI-assisted engineering.
+Software engineer working at the intersection of pragmatic architecture, technical leadership, legacy modernization, DevOps, and AI-assisted engineering.
 
 I help complex software systems become easier to understand, validate, modernize, and operate — with a strong focus on engineering workflows, CI/CD, testability, and delivery confidence.
 
