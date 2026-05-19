@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sébastien
 
-<!--
-**sebastienwitz/sebastienwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on pragmatic architecture, legacy modernization, DevOps, and AI-assisted engineering.
 
-Here are some ideas to get you started:
+I help complex software systems become easier to understand, validate, modernize, and operate — with a strong focus on engineering workflows, CI/CD, testability, and delivery confidence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Legacy .NET modernization and architectural refactoring
+- CI/CD, release confidence, and validation automation
+- AI-assisted software engineering workflows
+- Developer tooling for complex and integration-heavy systems
+- Replay/testing tools for safer system evolution
+- Pragmatic technical leadership and engineering practices
+
+## Featured projects
+
+- **ReplayLab** — local replay toolkit for loading structured records, inspecting them, and replaying selected messages through configurable adapters.
+- **AI Engineering Toolkit** — experiments and patterns around AI-assisted engineering workflows.
+- **NotionAPI** — small integration experiments around Notion automation.
+
+## Interests
+
+`.NET` · `Software Architecture` · `Legacy Modernization` · `DevOps` · `CI/CD` · `AI-assisted Engineering` · `Developer Tools` · `Testing`
