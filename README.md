@@ -15,9 +15,9 @@ I help complex software systems become easier to understand, validate, modernize
 
 ## Featured projects
 
-- **ReplayLab** — local replay toolkit for loading structured records, inspecting them, and replaying selected messages through configurable adapters.
-- **AI Engineering Toolkit** — experiments and patterns around AI-assisted engineering workflows.
-- **NotionAPI** — small integration experiments around Notion automation.
+- **[ReplayLab](https://github.com/sebastienwitz/replaylab)** — local replay toolkit...
+- **[AI Engineering Toolkit](https://github.com/sebastienwitz/ai-engineering-toolkit)** — experiments...
+- **[NotionAPI](https://github.com/sebastienwitz/NotionAPI)** — small integration...
 
 ## Interests
 
